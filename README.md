@@ -24,14 +24,10 @@ Backend developer apaixonado por sistemas bem estruturados e código que resolve
 
 ---
 
-## 📈 GitHub Stats
 
+📈 GitHub Stats
 <div align="center">
-
-![Mateus's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Matuges&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Matuges&layout=compact&theme=tokyonight&hide_border=true&langs_count=6)
-
+Mostrar Imagem
 </div>
 
 ---
