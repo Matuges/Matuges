@@ -27,7 +27,7 @@ Backend developer apaixonado por sistemas bem estruturados e código que resolve
 
 📈 GitHub Stats
 <div align="center">
-Mostrar Imagem
+(https://streak-stats.demolab.com/?user=Matuges&theme=tokyonight&hide_border=true&locale=pt_BR)
 </div>
 
 ---
