@@ -24,14 +24,6 @@ Backend developer apaixonado por sistemas bem estruturados e código que resolve
 
 ---
 
-
-📈 GitHub Stats
-<div align="center">
-  <img src="https://streak-stats.demolab.com?user=Matuges&theme=tokyonight&hide_border=true&locale=pt_BR" alt="GitHub Streak" />
-</div>
-
----
-
 ## 🌱 Atualmente
 - 🏢 Estagiando no Instituto Infnet, um dos principais institutos de tecnologia do Brasil
 - Desenvolvendo o **TatiPsicoped** e aprofundando conhecimentos backend
