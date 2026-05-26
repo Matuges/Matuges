@@ -26,7 +26,7 @@ Backend developer apaixonado por sistemas bem estruturados e código que resolve
 
 ## 🌱 Atualmente
 - 🏢 Estagiando no Instituto Infnet, um dos principais institutos de tecnologia do Brasil
-- Desenvolvendo o **TatiPsicoped** e aprofundando conhecimentos backend
+- Desenvolvendo o **TatiCare** e aprofundando conhecimentos backend
 - Explorando boas práticas de arquitetura backend e design de APIs
 
 ---
