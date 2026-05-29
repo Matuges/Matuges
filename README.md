@@ -46,6 +46,9 @@ Estou em busca de oportunidades como **desenvolvedor backend** (ou full-stack). 
   <img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
 </a>
 
+<a href="https://dev.to/matuges">
+  <img src="https://img.shields.io/badge/dev.to-0A0A0A?style=for-the-badge&logo=devdotto&logoColor=white" />
+</a>
 ---
 
 <div align="center">
