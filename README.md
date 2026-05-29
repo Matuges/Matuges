@@ -39,11 +39,12 @@ Estou em busca de oportunidades como **desenvolvedor backend** (ou full-stack). 
 
 ## 📬 Contato
 
-<a href="www.linkedin.com/in/mateus-peteffi">
+<a href="https://www.linkedin.com/in/mateus-peteffi">
   <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
 </a>
-<a href="mailto:mateuspeteffi@gmail.com">
-  <img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
+
+<a href="https://x.com/Matugess">
+  <img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white" />
 </a>
 
 <a href="https://dev.to/matuges">
